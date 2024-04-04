@@ -24,28 +24,17 @@
 
 ## INSTALLATION [Termux] :
 
-* ``` apt-get update -y ````
-* ``` apt-get upgrade -y ````
-* ```git clone --depth 1 https://github.com/Burhanverse/apktool ````
-* ```cd $HOME````
-* ```ls ````
-* ```cd apktool ````
-* ```chmod +x * ````
-* ```bash setup.sh ````
-* ```bash apktool.sh ````
+* `git clone --depth 1 https://github.com/Burhanverse/apktool`
+* `ls`
+* `cd apktool`
+* `chmod +x * `
+* `bash setup.sh `
+* `bash apktool.sh `
+
 ```
 [+]-- Open new session in termux and Type apktool
 ```
-p
-More Uses : [Click Here](https://www.h4ck3r.me/the-power-of-apktool-apktool-usage/)
-## Credit
 
-* Script by H4Ck34 (Raj Aryan)
- 
-* apktool 
- 
-* Java
- 
 ## Error Solve
 
 ```
@@ -57,3 +46,16 @@ More Uses : [Click Here](https://www.h4ck3r.me/the-power-of-apktool-apktool-usag
 
 • Then run apktool
 ```
+
+## Credit
+
+* Script by H4Ck34 (Raj Aryan)
+
+* Script modified by Aqua
+ 
+* apktool 
+ 
+* Java
+
+## [Full Installation](https://www.google.com/search?q=How%20to%20install%20apktool%20in%20termux%20site%3Ah4ck3r.me) 
+More Uses : [Click Here](https://www.h4ck3r.me/the-power-of-apktool-apktool-usage/)
